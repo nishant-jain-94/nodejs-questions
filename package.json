@@ -1,0 +1,16 @@
+{
+  "name": "pp-gist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rotate-array.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
